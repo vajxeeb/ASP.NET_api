@@ -1,0 +1,15 @@
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\bin\Release\netcoreapp3.1\Models.deps.json
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\bin\Release\netcoreapp3.1\Models.runtimeconfig.json
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\bin\Release\netcoreapp3.1\Models.runtimeconfig.dev.json
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\bin\Release\netcoreapp3.1\Models.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\bin\Release\netcoreapp3.1\Models.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\bin\Release\netcoreapp3.1\Library.Core.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\bin\Release\netcoreapp3.1\Library.Core.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.csproj.CopyComplete
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Models\obj\Release\netcoreapp3.1\Models.genruntimeconfig.cache

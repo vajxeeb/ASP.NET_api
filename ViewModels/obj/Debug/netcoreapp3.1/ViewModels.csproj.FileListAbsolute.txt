@@ -1,0 +1,10 @@
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.AssemblyReference.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CoreCompileInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.GeneratedMSBuildEditorConfig.editorconfig

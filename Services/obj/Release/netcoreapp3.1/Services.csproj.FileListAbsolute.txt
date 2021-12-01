@@ -1,0 +1,16 @@
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\Services.deps.json
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\Services.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\Services.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\Library.Core.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\Models.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\ViewModels.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\Library.Core.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\Models.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\bin\Release\netcoreapp3.1\ViewModels.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\obj\Release\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\obj\Release\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\obj\Release\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\obj\Release\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\obj\Release\netcoreapp3.1\Services.csproj.CopyComplete
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\obj\Release\netcoreapp3.1\Services.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Services\obj\Release\netcoreapp3.1\Services.pdb

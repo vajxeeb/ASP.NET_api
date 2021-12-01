@@ -1,0 +1,9 @@
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\bin\Release\netcoreapp3.1\Library.Core.deps.json
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\bin\Release\netcoreapp3.1\Library.Core.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\bin\Release\netcoreapp3.1\Library.Core.pdb
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\obj\Release\netcoreapp3.1\Library.Core.csproj.AssemblyReference.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\obj\Release\netcoreapp3.1\Library.Core.AssemblyInfoInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\obj\Release\netcoreapp3.1\Library.Core.AssemblyInfo.cs
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\obj\Release\netcoreapp3.1\Library.Core.csproj.CoreCompileInputs.cache
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\obj\Release\netcoreapp3.1\Library.Core.dll
+D:\Tanvir\mine\Lotty_Mngt_Api\Library.Common\obj\Release\netcoreapp3.1\Library.Core.pdb
